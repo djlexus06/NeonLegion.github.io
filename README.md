@@ -1,8 +1,4 @@
-<!doctype html>
-<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Neon Legion – Datenschutzerklärung / Privacy Policy</title>
-<style>body{font:16px/1.6 system-ui,sans-serif;max-width:46rem;margin:0 auto;padding:2rem 1rem;color:#1b1830;background:#fbfaff}h1{font-size:1.6rem}h2{font-size:1.15rem;margin-top:2rem}</style>
-</head><body>
+<body>
 <h1>Datenschutzerklärung für „Neon Legion“</h1>
 <p>Stand: 13. Oktober 2026 · Anbieter: LeXuS Labs · Kontakt: djlexus06@googlemail.com</p>
 <h2>Kurzfassung</h2>
